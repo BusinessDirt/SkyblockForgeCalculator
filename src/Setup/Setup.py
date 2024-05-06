@@ -3,7 +3,7 @@ import subprocess
 def setup():
     # validate python installation and install packages
     from Setup.SetupPython import PythonConfiguration as PythonRequirements
-    PythonRequirements.validate(packages=["progressbar2"])
+    PythonRequirements.validate(packages=[])
 
     # fetch neu-repo
     print("\nUpdating submodules...")
