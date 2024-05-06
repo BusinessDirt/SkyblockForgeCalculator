@@ -1,0 +1,3 @@
+[submodule "vendor/neu-repo"]
+	path = vendor/neu-repo
+	url = https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO.git
